@@ -52,12 +52,18 @@ TOTAL	18
 
 # Learning Outcomes
 Understanding of string manipulation in Java
+
 Implementation of data structures (like HashMap)
+
 Basic text processing techniques
+
 Writing clean and modular code
 
 # Future Enhancements
 GUI version using Java Swing / JavaFX
+
 File upload support
+
 Stop-word removal
+
 Integration with NLP libraries
